@@ -1,0 +1,90 @@
+body {
+  font-family: "Playfair Display", serif;
+  color: #626262;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 78px 150px 70px 150px;
+}
+
+.navigation-manu :hover {
+  color: #03a9f4;
+}
+.navigation-manu {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.navigation-manu li {
+  display: inline-block;
+}
+nav {
+  text-transform: uppercase;
+  padding-bottom: 104px;
+}
+.navigation-manu a {
+  text-decoration: none;
+  color: #626262;
+}
+.lyfestyle {
+  margin-right: 120px;
+  margin-left: 165px;
+}
+.photodiary {
+  margin-right: 104px;
+}
+.music {
+  margin-right: 95px;
+}
+h2 {
+  display: none;
+}
+.main-box {
+  margin: 0px;
+  padding: 0px;
+}
+.subtitle {
+  font-family: "Ubuntu", sans-serif;
+  color: #b4ad9e;
+  line-height: 17px;
+  text-transform: uppercase;
+  margin: 32px 0px 30px 0px;
+}
+.title {
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom: 40px;
+}
+.main-box {
+  list-style-type: none;
+  padding-bottom: 56px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-box li {
+  box-sizing: content-box;
+  display: inline-block;
+  width: 420px;
+  margin-right: 60px;
+}
+
+.main-box p {
+  text-align: justify;
+}
+.element1 {
+  margin-bottom: 140px;
+}
+.element3 {
+  margin-bottom: 140px;
+}
+button {
+  font-size: 20px;
+  height: 60px;
+  width: 164px;
+  margin-left: 508px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #626262;
+  padding: 0px;
+  background-color: #ffffff;
+  color: #626262;
+}
